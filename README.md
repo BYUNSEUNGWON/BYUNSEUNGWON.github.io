@@ -245,7 +245,7 @@
           <div class="resume-item">
             <h4>경북 직업전문학교</h4>
             <h5>2023.01 - 2023.05</h5>
-            <p><strong>[웹프로그래밍]_빅데이터기반 웹+모바일 개발자 양성과정 (2023..5.31 수료예정)</p>
+            <p><strong>[웹프로그래밍]_빅데이터기반 웹+모바일 개발자 양성과정 (2023.5.31 수료예정)</p>
             <ul>
               <li>주로 웹 프로그래밍에 필요한 Front End 기술에는 html,css,JavaScript(jquery),jstl,thymleaf를 배웠으며 Back End 기술에는 Java,Jsp,Spring Framwork를 배웠습니다.
                  데이터베이스로는 Mysql을 사용하였습니다. <br>
